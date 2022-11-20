@@ -5,3 +5,13 @@ body {
 .head-content {
   background-color: #ffdede;
 }
+button {
+  background-color: #ff007b !important;
+  color: #fff;
+  border: none;
+}
+button:hover {
+  background-color: #ffdede !important;
+  border: 1px solid #ff007b;
+  color: #ff007b;
+}
