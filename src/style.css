@@ -30,7 +30,12 @@ p.heading {
   font-family: "Bebas Neue";
   font-size: 32px;
 }
-a {
+a.btn-link {
   text-decoration: none !important;
   color: #fff !important;
+}
+footer {
+    border-top: 1px solid #ff007b;
+    padding-top: 20px;
+    color: #ff007b;
 }
