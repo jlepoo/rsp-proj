@@ -15,3 +15,17 @@ button:hover {
   border: 1px solid #ff007b;
   color: #ff007b;
 }
+h1,
+h2 {
+  font-family: "Bebas Neue";
+}
+p, h3 {
+  font-family: "Manrope";
+}
+.work-text {
+    color: #ff007b;
+}
+p.heading {
+    font-family: "Bebas Neue";
+    font-size: 32px;
+}
