@@ -19,13 +19,18 @@ h1,
 h2 {
   font-family: "Bebas Neue";
 }
-p, h3 {
+p,
+h3 {
   font-family: "Manrope";
 }
 .work-text {
-    color: #ff007b;
+  color: #ff007b;
 }
 p.heading {
-    font-family: "Bebas Neue";
-    font-size: 32px;
+  font-family: "Bebas Neue";
+  font-size: 32px;
+}
+a {
+  text-decoration: none !important;
+  color: #fff !important;
 }
